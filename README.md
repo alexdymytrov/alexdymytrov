@@ -7,3 +7,5 @@
  Worked with several python frameworks and libraries (Django, Flask, Django Rest Framework, FastApi, BeautifulSoup, NumPy, Pandas, Python-Telegram-Bot).
 
  Worked with such databases like Postgresql and Mysql.
+
+ Let me know if i'm needed
